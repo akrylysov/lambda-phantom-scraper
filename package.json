@@ -1,0 +1,15 @@
+{
+  "name": "lambda-phantom-scraper",
+  "version": "0.1.0",
+  "description": "Example of PhantomJS/Node.js web scraper for AWS Lambda",
+  "author": {
+    "name": "Artem Krylysov"
+  },
+  "dependencies": {
+    "phantomjs-prebuilt": "2.1.7"
+  },
+  "devDependencies": {
+    "express": "4.13.4",
+    "body-parser": "1.15.1 "
+  }
+}
